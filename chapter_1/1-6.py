@@ -17,4 +17,4 @@ print(xy_difference)
 
 print( 'se' in set(X) & set(Y))
 
-# Ref. https://note.nkmk.me/python-list-common/
+# Ref. https://note.nkmk.me/python-set/
